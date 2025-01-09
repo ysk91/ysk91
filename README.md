@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
-- 📫 You can view my career information here: [Wantedly](https://www.wantedly.com/id/yusuke_sonoki)
+- 📫 You can view my career information here: [Wantedly](https://www.wantedly.com/id/yusuke_sonoki), [LinkedIn](https://www.linkedin.com/in/yusuke-sonoki/)
 - 📝 Here is a list of the articles I have written so far: [Qiita](https://qiita.com/ysk91_engineer)
 <br>
 
